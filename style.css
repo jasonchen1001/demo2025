@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+    color: aquamarine;
+
+}
+h3 {
+    text-align: center;
+    color: rgb(112, 60, 201);
+}
+
+p {
+
+    text-align: center;
+    margin: 0 auto ;
+}
+
+
+#main{
+    color: rgb(114, 84, 204);
+    background-color: rgb(191, 188, 141);
+}
+
+.A {
+    border: 5px solid rgb(114, 84, 204);
+    padding: 0 10px, 10px, 10px;
+    margin: 2px;
+}
